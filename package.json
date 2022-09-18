@@ -5,7 +5,8 @@
     "author": "david harwardt <harwardt.david@gmail.com>",
     "license": "MIT",
     "scripts": {
-        "compile": "tsc"
+        "compile": "tsc",
+        "publish": "cd ./dist && npm publish"
     },
     "devDependencies": {
         "typescript": "^4.8.3"
