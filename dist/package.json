@@ -1,5 +1,5 @@
 {
-    "name": "@dvmujic/lib",
+    "name": "@david.harwardt/lib",
     "version": "0.1.0",
     "description": "a library",
     "module": "lib/es6/index.js",
