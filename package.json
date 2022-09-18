@@ -6,7 +6,7 @@
     "license": "MIT",
     "scripts": {
         "compile": "tsc",
-        "publish": "cd ./dist && npm publish"
+        "publish": "cd ./dist && npm publish --access=public"
     },
     "devDependencies": {
         "typescript": "^4.8.3"
